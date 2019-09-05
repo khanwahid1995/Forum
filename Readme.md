@@ -1,4 +1,4 @@
-# Spring Boot, MySQL, JPA, Hibernate Rest API Tutorial
+# Spring Boot, MySQL, JPA, Hibernate Rest Forum
 
 Build Restful CRUD API for a simple Forum application using Spring Boot, Mysql, JPA and Hibernate.
 
@@ -15,7 +15,7 @@ Build Restful CRUD API for a simple Forum application using Spring Boot, Mysql, 
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/{}
+git clone https://github.com/khanwahid1995/forum
 ```
 
 **2. Create Mysql database**
