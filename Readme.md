@@ -178,4 +178,4 @@ You can test them using postman or any other rest client.
 			
 5. http://localhost:8080/forum/get-cached-question-replies/1
 	
-	Output :  save as Api 4 but response time will be less as whole json is save in memeory
+	Output :  same as Api 4 but response time will be less as whole json is save in memory
